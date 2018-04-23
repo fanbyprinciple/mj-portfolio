@@ -1,0 +1,11 @@
+.cursive {
+  font-family: 'Caveat', cursive;
+}
+
+h1.cursive {
+  font-size: 3em;
+}
+
+.cursive-alternative {
+  font-family: 'Caveat Brush', cursive;
+}
